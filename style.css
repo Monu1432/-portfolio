@@ -582,6 +582,77 @@ main{
     background-color: white;
 }
 
+#project .project-row0{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-top: 35px;
+}
+
+#project .project-row0 .imgss-cols{
+    flex-basis: 50%;
+    text-align: center;
+}
+#project .project-row0 .imgss-cols .img{
+    width: 100%;
+}
+#project .project-row0 .project-cols{
+    flex-basis: 50%;
+}
+
+#project .project-row0 .project-cols h2{
+    color: var(--sideBGColor);
+    font-weight: 600;
+    font-size: 25px;
+    margin: 10px 0;
+}#project .project-row0{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-top: 35px;
+}
+
+#project .project-row0 .imgss-cols{
+    flex-basis: 50%;
+    text-align: center;
+}
+#project .project-row0 .imgss-cols .img{
+    width: 100%;
+}
+#project .project-row0 .project-cols{
+    flex-basis: 50%;
+}
+
+#project .project-row0 .project-cols h2{
+    color: var(--sideBGColor);
+    font-weight: 600;
+    font-size: 25px;
+    margin: 10px 0;
+}
+#project .project-row0 .project-cols h3{
+    color: var(--sideBGColor);
+    font-weight: 400;
+    font-size: 20px;
+    margin: 5px 0;
+    color: var(--themeColor);;
+}
+
+#project .project-row0 .project-cols .pro0-description{
+    color: var(--textColor);
+    font-size: 15px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+#project .project-row0 .project-cols .pro0-description p{
+    color: var(--textColor);
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+
+
 #project .project-row1{
     display: flex;
     justify-content: space-evenly;
